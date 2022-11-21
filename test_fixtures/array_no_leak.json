@@ -1,0 +1,5 @@
+[
+    ["foo", "bar", "baz"],
+    [1234, 5678],
+    1234_invalid_number
+]

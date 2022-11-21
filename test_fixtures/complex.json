@@ -1,0 +1,20 @@
+{
+    "status": "ok",
+    "stops": [
+        {
+            "id": 0,
+            "code": null,
+            "position": {"lat": 1.0, "lon": 1.0}
+        },
+        {
+            "id": 1,
+            "code": "B",
+            "position": {"lat": 1.0, "lon": 1.0}
+        },
+        {
+            "id": 2,
+            "code": "C",
+            "position": {"lat": 1.0, "lon": 1.0}
+        }
+    ]
+}
